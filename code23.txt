@@ -1,2 +1,4 @@
 gg
 ggg-diferit fata de conflict
+gggg-iar am modificat
+gggggg-modificare in main
